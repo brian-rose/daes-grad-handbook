@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: University at Albany Department of Atmospheric & Environmental Sciences Graduate Program Guide
+  # description:
+  keywords: []
+  authors: []
+  # github:
+  # bibliography: []
+  toc:
+    - file: handbook.md
+    - file: mentorship.md
+site:
+  template: book-theme
+  # title:
+  # options:
+  #   logo: my_logo.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
