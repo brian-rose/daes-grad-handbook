@@ -423,7 +423,7 @@ https://www.albany.edu/cost-aid/residency-requirements
 - Sumar Hart (Pre-written exam)			
 - Elena Fernandez (Post-written exam)
 - Liam Sheji (ASRC)					
-- _TBD_ (First year)
+- Cassidy Ochoa (First year)
 
 ```{figure} infographic.png
 :label: infographic
