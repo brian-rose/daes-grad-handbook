@@ -1,14 +1,21 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: University at Albany Department of Atmospheric & Environmental Sciences Graduate Program Guide
+  title: DAES Graduate Program Guide
   # description:
   keywords: []
   authors: []
   # github:
   # bibliography: []
   toc:
-    - file: handbook.md
+    - file: home.md
+    - file: programs.md
+      children:
+        - file: applied-ms.md
+        - file: atm-ms.md
+        - file: clm-ms.md
+        - file: phd.md
+    - file: policies.md
     - file: mentorship.md
 site:
   template: book-theme
