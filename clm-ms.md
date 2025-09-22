@@ -42,14 +42,14 @@ A minimum of 30 credits in graduate courses (500 level or above) is required for
 - ATM 500 Atmospheric Dynamics (3)
 - ATM 504 Introduction to Atmospheric Physics I (3)
 - ATM 551 Fundamentals of Earth's Climate (3)
-- [Data Fluency Elective](data-fluency)
+- [Data Fluency Elective](#data-fluency)
   
   
 #### Climate Chemistry & Physics Track
 - ATM 550 Paleoclimatology (3)
 - ATM 551 Fundamentals of Earth's Climate (3)
-- [Climate Chemistry or Physics Elective](chem-phys-elective)
-- [Data Fluency Elective](data-fluency)
+- [Climate Chemistry or Physics Elective](#chem-phys-elective)
+- [Data Fluency Elective](#data-fluency)
   
 (chem-phys-elective)=
 #### Climate Chemistry or Physics Elective

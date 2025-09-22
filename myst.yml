@@ -19,11 +19,6 @@ project:
     - file: mentorship.md
 site:
   template: book-theme
-  # title:
-  # options:
-  #   logo: my_logo.png
-  nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
-  domains: []
+    - title: DAES home
+      url: https://www.albany.edu/daes
