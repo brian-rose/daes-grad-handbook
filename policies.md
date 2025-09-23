@@ -150,25 +150,6 @@ If repeated problematic behavior is reported, disciplinary actions will be taken
 
 Students who use social networking sites and other forms of electronic communication should be mindful of how their communication may be perceived by fellow students, faculty, and colleagues. As such, students should make every effort to minimize visual or printed material that may be deemed otherwise inappropriate in a professional environment. To this end, students are encouraged to set all security settings to “private” and should avoid posting information/photos and using any language that could jeopardize their professional image. Statements on social media sites are easily taken out of context due to their short nature. 
 
-## Planned Course Offerings (subject to change):
-
-### Spring 2026:
-- ATM 511: Synoptic–Dynamic Meteorology
-- ATM 520: Remote Sensing in Atmospheric Sciences
-- ATM 522: Climate Variability and Predictability
-- ATM 523: Large-scale Dynamics of the Tropics
-- ATM 528: Basic Concepts of Atmospheric Transfer Processes
-- ATM 531: Principles of Sustainable Energy
-- ATM 543: Weather, Climate Change, and Societal Impacts
-
-### Fall 2026 (tentative):
-- ATM 500: Atmospheric Dynamics I
-- ATM 504: Introduction to Atmospheric Physics I
-- ATM 529: Atmosphere–Ocean Interaction 
-- ATM 551: Fundamentals of Earth’s Climate
-- ATM 563: Applications of Numerical Weather Prediction
-- ATM 622: General Circulation of the Atmosphere
-- ATM 641: Mesoscale Meteorology
 
 ## Useful Links
 
@@ -185,19 +166,3 @@ Master’s and PhD Thesis Guidelines: https://www.albany.edu/graduate/resources-
 
 Residency Rules:
 https://www.albany.edu/cost-aid/residency-requirements
-
-## Graduate Program Committee:
-### Faculty members
-
-- Brian Rose, Director
-- Aubrey Hillman (Assessment Director)
-- Paul Roundy (Applied Master’s Director)
-- Kara Sulia (ASRC Representative)
-- Oliver Timm (Graduate Recruitment Director)
-- Ryan Torn
-
-### Graduate student representatives
-- Sumar Hart (Pre-written exam)			
-- Elena Fernandez (Post-written exam)
-- Liam Sheji (ASRC)					
-- Cassidy Ochoa (First year)

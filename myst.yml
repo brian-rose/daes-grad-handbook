@@ -16,7 +16,9 @@ project:
         - file: clm-ms.md
         - file: phd.md
     - file: policies.md
+    - file: planned-courses.md
     - file: mentorship.md
+    - file: gpc.md
 site:
   template: book-theme
   actions:
