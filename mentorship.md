@@ -1,43 +1,87 @@
 # DAES/ASRC Graduate Student Mentorship Guidelines
 
+## Relationships and responsibilities
+
 Seeking out and cultivating productive, supportive advising and mentoring relationships is vitally important to the academic and professional success of graduate students. These relationships also enrich the culture of collaboration and scholarly enterprise within DAES, ASRC, UAlbany, and the greater atmospheric science community. Good mentoring and advising relationships require active participation and engagement from both the student and advisor/mentor. The goal of these guidelines is to provide a starting point for important conversations and a framework for advising to help both students and advisors achieve success.
 
-As faculty at an R1 research and teaching university, DAES and ASRC research advisors are responsible for helping their students to: 1) acquire a body of discipline knowledge and skills; 2) develop techniques for networking and collaborating; 3) deal more confidently with challenging intellectual work; and, 4) prepare for their future career and present the range of options available.
+### Faculty responsibilities
+As faculty at an R1 research and teaching university, DAES and ASRC research advisors are responsible for helping their students to: 
+1. acquire a body of discipline knowledge and skills; 
+2. develop techniques for networking and collaborating;
+3. deal more confidently with challenging intellectual work; and, 
+4. prepare for their future career and present the range of options available.
 
-Graduate students being mentored by DAES and/or ASRC faculty members are responsible for: 1) developing and demonstrating their ability to be independent scholars and researchers; 2) analyzing what they need from their advisor(s) and explicitly asking for assistance; 3) developing a work plan that includes both short-term and long-term objectives, as well as a series of deadlines; 4) taking advantage of formal and informal opportunities to improve their understanding of research responsibility and professional ethics; and, 5) being realistic about what any single mentor can do for them.
+### Student responsibilties
+Graduate students being mentored by DAES and/or ASRC faculty members are responsible for: 
+1. developing and demonstrating their ability to be independent scholars and researchers; 
+2. analyzing what they need from their advisor(s) and explicitly asking for assistance; 
+3. developing a work plan that includes both short-term and long-term objectives, as well as a series of deadlines;
+4. taking advantage of formal and informal opportunities to improve their understanding of research responsibility and professional ethics; and, 
+5. being realistic about what any single mentor can do for them.
 
 To assist advisors and students in achieving these goals, the following guidelines and best practices have been developed to assist advisors and students in setting clear expectations, having open lines of communication, formulating academic and professional goals, and fostering healthy working relationships. A list of resources available to assist in achieving the goals above is also appended.
 
 ## Clear expectations and communication
 Developing clearly defined expectations and lines of communication are hallmarks of good relationships, and can alleviate problems from developing between advisors and advisees. New graduate students should promptly meet with their advisor(s) upon their arrival to develop an agreed upon set of expectations in the following areas, and reassess these expectations at least annually as the student advances through the program: 
 
-1) Time spent on research: How much time per week does the advisor expect the student to work on research? How much time does the advisor expect the student to work in the office versus other locations (at home, coffee shop, library, etc.)? 
+### Time spent on research
+- How much time per week does the advisor expect the student to work on research? 
+- How much time does the advisor expect the student to work in the office versus other locations (at home, coffee shop, library, etc.)? 
 
-2) Vacation time: The advisor and advisee should mutually decide how much time a student may take for vacation between and within semesters. The advisor and advisee should also communicate with each other as to when they will be out of the office for vacation, conference travel, family events, illness, etc..
+### Vacation time
+- The advisor and advisee should mutually decide how much time a student may take for vacation between and within semesters. 
+- The advisor and advisee should also communicate with each other as to when they will be out of the office for vacation, conference travel, family events, illness, etc..
 
-3) Individual research meetings: What meeting style is preferred by both parties, e.g., weekly, bi-weekly, as needed? The student and advisor should agree on the formality of the meetings; i.e., will an agenda be created, will a summary be prepared?
+### Individual research meetings
+- What meeting style is preferred by both parties, e.g., weekly, bi-weekly, as needed? 
+- The student and advisor should agree on the formality of the meetings; i.e., will an agenda be created, will a summary be prepared?
 
-4) Technical skills: What programming language(s), software, and other tools does the student know? What is the preferred language used by the advisor’s group? The advisor(s) may ask the student to perform a self-evaluation of their technical strengths and weaknesses, from which they can work together to devise a targeted plan of action to ensure that the student seeks out any necessary supplemental training to perform their research activities. 
+### Technical skills
+- What programming language(s), software, and other tools does the student know? 
+- What is the preferred language used by the advisor’s group? 
+- The advisor(s) may ask the student to perform a self-evaluation of their technical strengths and weaknesses, from which they can work together to devise a targeted plan of action to ensure that the student seeks out any necessary supplemental training to perform their research activities. 
 
-5) Lab and field work: Is laboratory and/or field work expected to be a component of the student’s research? How many hours per week does the advisor typically expect the student to work in the lab? Does the advisor have funding available for the student to participate in field work? What are the expectations (personal and professional) of a student who participates in field work? What is the expected timeline to complete the field and/or lab work?
+### Lab and field work
+- Is laboratory and/or field work expected to be a component of the student’s research? 
+- How many hours per week does the advisor typically expect the student to work in the lab? - Does the advisor have funding available for the student to participate in field work? 
+- What are the expectations (personal and professional) of a student who participates in field work? 
+- What is the expected timeline to complete the field and/or lab work?
 
-6) Mode of communication: Is email the best form of communication or does the research group use Slack, Microsoft Teams, or another platform?
+### Mode of communication
+- Is email the best form of communication?
+- Does the research group use Slack, Microsoft Teams, or another platform?
 
-7) Group meetings: Does the advisor have regular (e.g., weekly, biweekly) group meetings with their research group? 
+### Group meetings
+- Does the advisor have regular (e.g., weekly, biweekly) group meetings with their research group? 
 
-8) Department research meetings, map discussions, the DAES/ASRC seminar series, and student presentations: Does the advisor’s group participate in one of the department’s research meetings, e.g., Climate Group.? Is attendance expected at the department’s map discussions?
+### Department seminar and events
+- There are numerous weekly research meetings, map discussions, seminars, and student presentations throughout the semester. 
+- The Department expects all students to attend the DAES/ASRC Colloquium and the Master’s presentations, prospectuses, and defenses of their peers. Advisors should note this expectation when first meeting with their students, and reiterate, if attendance becomes an issue.
+- Does the advisor’s group participate in one of the department’s topical meetings, e.g., Climate Group.? 
+- Is attendance expected at the department’s map discussions?
 
-The Department expects all students to attend the DAES/ASRC Colloquium and the Master’s presentations, prospectuses, and defenses of their peers. Advisors should note this expectation when first meeting with their students, and reiterate, if attendance becomes an issue.
+### Classes
+- Does the advisor prefer the student draft their coursework plan, or will the advisor recommend a plan to the student? 
+- Does the student wish to take more classes than required by the program and/or classes outside their main research area? 
+- Is the advisor supportive of this or would they prefer the student focus on research? 
 
-9) Classes: Does the advisor prefer the student draft their coursework plan, or will the advisor recommend a plan to the student? Does the student wish to take more classes than required by the program and/or classes outside their main research area? Is the advisor supportive of this or would they prefer the student focus on research? 
+### Unfunded research
+- Does the student wish to pursue unfunded research projects (i.e., research separate from their thesis) either stemming from class projects or side research projects with another mentor/advisor? 
+- Is the advisor supportive of the student’s participation in these pursuits?
 
-10) Unfunded research: Does the student wish to pursue unfunded research projects (i.e., research separate from their thesis) either stemming from class projects or side research projects with another mentor/advisor? Is the advisor supportive of the student’s participation in these pursuits?
+### Student governance, outreach, and service
+- Does the student wish to participate in department and/or university governance, outreach, and/or service in the broader atmospheric science community (e.g., an AMS STAC student member, organizing the AMS Student Conference, etc.)? 
+- Is the advisor supportive of the student’s participation in these activities?
 
-11) Student governance, outreach, and service: Does the student wish to participate in department and/or university governance, outreach, and/or service in the broader atmospheric science community (e.g., an AMS STAC student member, organizing the AMS Student Conference, etc.)? Is the advisor supportive of the student’s participation in these activities?
+### Workshop/conference travel
+- Does the advisor regularly send their students to professional workshops and conferences?
+- Does the advisor have funding to support student travel, registration, etc. for these meetings? 
 
-12) Workshop/conference travel: Does the advisor regularly send their students to professional workshops and conferences? Does the advisor have funding to support student travel, registration, etc. for these meetings? 
-
-13) Publications: What are the advisor’s expectations in regard to publishing the student’s research? What is the traditional order of authors in the chosen field of study? What level of contribution/involvement is expected to be included as a co-author? Does the advisor involve their students in the preparation of their own manuscripts (e.g., collecting data, preparing figures, proofreading, and editing, etc.)? 
+### Publications
+- What are the advisor’s expectations in regard to publishing the student’s research? 
+- What is the traditional order of authors in the chosen field of study? 
+- What level of contribution/involvement is expected to be included as a co-author? 
+- Does the advisor involve their students in the preparation of their own manuscripts (e.g., collecting data, preparing figures, proofreading, and editing, etc.)? 
 
 ## Funding
 Year to year funding can be one of one the largest sources of uncertainty and stress for both graduate students and advisors. To reduce this stress, it is important that advisors communicate openly with their students about the funding landscape from year to year. 
@@ -58,7 +102,7 @@ To this end, students and faculty members should discuss the following at the be
 Although it is sometimes difficult for faculty to provide concrete answers to these questions a year in advance, it is imperative that students have this information so that they may plan accordingly, e.g., apply for fellowships, change advisors, and/or apply to other graduate programs.
 
 ## Student activity reports and professional development
-All students are required to submit a yearly graduate student activity form at the end of the spring semester. The form (link sent by The Graduate Program Director each year) covers the concluding academic year and includes: 1) publications; 2) presentations (both oral and poster); 3) awards; 4) outreach, service, and engagement activities within/to the department/university, professional societies, the greater community, etc.; 5) a short description of progress toward degree; and, 6) a plan for progress towards degree and professional development during the next academic year. This last section should be written in consultation with the student’s advisor(s) after meeting to evaluate progress and establish goals for the upcoming year. Students who fail to submit these reports are subject to sanctions by the Committee.
+[Annual activity reports](policies.md#grad-activity-reports) are required for all students at the end of the Spring semester. This reporting is meant to encourage discussion between student and advisor(s) about short- and longer-term professional goals.
 
 During a student’s first semester in the department, they should start discussing their professional and career goals with their advisor(s) and mentor(s). These goals may be unclear as the student starts their graduate school career and will, almost certainly, evolve as the student gains experience in the program and field. The goal of these early, and continuing, conversations between a student and their advisor(s) is for both sides to learn about, and from, each other to help them both achieve success. Questions to help facilitate these conversations may include:
 

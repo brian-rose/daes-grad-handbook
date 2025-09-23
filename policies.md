@@ -112,8 +112,8 @@ Students who are planning to travel internationally, for person or professional 
 
 Seeking out and cultivating productive, supportive advising and mentoring relationships is vitally important to the academic and professional success of graduate students. These relationships also enrich the culture of collaboration and scholarly enterprise within DAES, ASRC, UAlbany, and the greater atmospheric science community. Good mentoring and advising relationships require active participation and engagement from both the student and advisor/mentor. To achieve the goals of productive and equitable advising and mentoring across DAES and ASRC, [mentorship guidelines are included here](mentorship.md) to provide a starting point for important conversations and a framework for advising to help both students and advisors achieve success.
 
+(grad-activity-reports)=
 ## Graduate Student Activity Reports
-
 All students are required to submit a yearly graduate student activity form at the end of the Spring semester. The form (link sent by The Graduate Program Director each year) covers the concluding academic year and includes: 
 1. publications; 
 2. presentations (both oral and poster); 
