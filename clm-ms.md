@@ -8,7 +8,7 @@ The aims of the program leading to the M.S. in Climate Science are to (1) provid
 
 The M.S. in Climate Science requires two academic years of full-time study and research, or the equivalent over a longer period, beyond the baccalaureate. The program requires the completion of an original research-based Master’s thesis under advisement of one or more faculty members. Areas of research specialization within the two tracks include climate dynamics and modeling, polar environments, atmospheric chemistry, paleoclimate reconstruction, environmental geochemistry, physical oceanography and ocean-atmosphere interactions, remote sensing, urban climate, renewable energy, and applications of machine learning.
 
-## Requirements for Admission
+## Climate Science Requirements for Admission
 
 In addition to the general University at Albany requirements for admission to graduate study, an applicant's undergraduate preparation should include:
 
@@ -23,7 +23,7 @@ For the Climate Dynamics track, students must have one additional semester of a 
 
 These requirements would normally be met through a B.S. degree in Atmospheric Science/Meteorology, Oceanography, Geology, Environmental Science, Chemistry, Physics, or closely related field. A student who is deficient in these subjects will be expected to satisfy the deficiencies during the first year of graduate study, in consultation with their faculty advisor(s). A lack in one of more of these courses does not automatically disqualify a student from admission. Alternative courses, research, or work experience that demonstrate a strong background in math, physics, chemistry, and/or environmental science can provide equivalent preparation.
 
-## Program Requirements
+## Climate Science Program Requirements
 
 A minimum of 30 credits in graduate courses (500 level or above) is required for the Master’s (M.S.) degree, including:
 

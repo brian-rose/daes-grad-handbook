@@ -2,11 +2,16 @@
 
 See also the [Atmospheric Science M.S. description in the Graduate Bulletin](https://www.albany.edu/graduate-bulletin/atmospheric-science-ms.php).
 
-## Requirements for Admission
+## Atmospheric Science Requirements for Admission
 
-In addition to the general University at Albany requirements for admission to graduate study, an applicant's undergraduate preparation should include: (1) three semesters of a college calculus sequence for science/engineering majors, with a course in differential equations; (2) two calculus-based, college physics courses or related physics and math-based engineering or natural sciences courses; (3) at least one college-level chemistry or geochemistry course. A student who is deficient in these subjects will be expected to make up the deficiencies during the first year of graduate study, in consultation with their faculty advisor(s). A lack in one or more of these courses does not automatically disqualify a student from admission. Alternative courses, research, or work experience that demonstrate a strong background in math and physics can provide equivalent preparation. With the increasing demand for data analysis skills in professional positions, incoming students are expected to have basic skills in at least one computer coding language.
+In addition to the general University at Albany requirements for admission to graduate study, an applicant's undergraduate preparation should include: 
+1. Three semesters of a college calculus sequence for science/engineering majors, with a course in differential equations;
+2. two calculus-based, college physics courses or related physics and math-based engineering or natural sciences courses;
+3. at least one college-level chemistry or geochemistry course. 
 
-## Program Requirements
+A student who is deficient in these subjects will be expected to make up the deficiencies during the first year of graduate study, in consultation with their faculty advisor(s). A lack in one or more of these courses does not automatically disqualify a student from admission. Alternative courses, research, or work experience that demonstrate a strong background in math and physics can provide equivalent preparation. With the increasing demand for data analysis skills in professional positions, incoming students are expected to have basic skills in at least one computer coding language.
+
+## Atmospheric Science Program Requirements
 
 1. A minimum of 30 credits in graduate courses (500 level or above) is required for the Master’s (M.S.) degree
 2. Atmospheric science (18 credits, minimum):

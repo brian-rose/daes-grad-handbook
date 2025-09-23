@@ -2,16 +2,22 @@
 
 ## Teaching Assistant Policies
 
-University rules dictate that a student may serve as a teaching assistant (TA) for up to four years if entering the university without a Master’s degree; otherwise, the limit is three years. A student who enters the university with TA support will automatically receive TA support for a second academic year, as long as the student remains in good academic standing and has performed their TA duties in a satisfactory manner. In order to receive TA support beyond two years, the student’s academic advisor(s) must petition the Graduate Program Committee in writing prior to the preferred application deadline (currently 5 January). The Graduate Program Committee’s decision to grant an additional year of TA support will be based on the student’s progress toward degree in relation to the program timeline, the availability of other funding, and performance of TA duties. Current students who wish to be shifted onto TA support during the next academic year are subject to the same requirements as a student requesting TA support beyond two years. If new and continuing TA requests exceed the CAS-allotted number of positions, preference will be given to students advised by DAES faculty.
+### Appointment to TA positions
+University rules dictate that a student may serve as a teaching assistant (TA) for up to four years if entering the university without a Master’s degree; otherwise, the limit is three years. A student who enters the university with TA support will automatically receive TA support for a second academic year, as long as the student remains in good academic standing and has performed their TA duties in a satisfactory manner. 
 
+In order to receive TA support beyond two years, the student’s academic advisor(s) must petition the Graduate Program Committee in writing prior to the preferred application deadline (currently 5 January). The Graduate Program Committee’s decision to grant an additional year of TA support will be based on the student’s progress toward degree in relation to the program timeline, the availability of other funding, and performance of TA duties. 
+
+Current students who wish to be shifted onto TA support during the next academic year are subject to the same requirements as a student requesting TA support beyond two years. If new and continuing TA requests exceed the CAS-allotted number of positions, preference will be given to students advised by DAES faculty.
+
+### TA course assignments
 Prior to the beginning of each semester, the Graduate Program Committee shall assign teaching assistants to specific courses. Priority will be given to courses based on enrollment, course workload, and special needs of the instructor. Teaching faculty will be polled about the expected duties for a TA and the expected number of hours of work per week. Typical TA duties include attending lecture, holding office hours, grading, assisting students with in-class activities, development of class materials, holding review sessions, and managing BrightSpace, but duties will vary based on the needs of the class. Faculty requests for particular skills and teaching assistants will be taken under advisement.
 
 TAs are assigned to individual courses based on the following priority guidelines:
 
-### 100–200 level courses: 
+#### 100–200 level courses: 
 Up to one TA per 100 students
 
-### 300–400 level and required graduate (e.g., ATM 500, 504, 551) courses:
+#### 300–400 level and required graduate (e.g., ATM 500, 504, 551) courses:
 - Courses that include a lab session
 - Medical limitations of the instructor
 - Courses with significant one-on-one instruction time, or courses where the TA provides substantial day-to-day instructional support beyond the typical TA duties (i.e., office hours, grading, attending class)
@@ -19,18 +25,28 @@ Up to one TA per 100 students
 
 ## Research Assistant Policies
 
-Research assistants (RAs) are employees of the Research Foundation (RF) and are paid to assist their advisor(s) with research related to a grant. DAES and ASRC use the following general job description for all RAs, but specific duties will vary based on the requirements of the grant and type of research conducted: This position provides research support to the DAES/ASRC student working under the supervision of the Principal Investigator (PI). Students will carry out tasks in conformance with the requirements of the research project grant they are funded by and as directed by the PI. Activities will vary and may be carried out in the laboratory, workstation, library, or the field as described in the grant proposal description. Incumbents exercise initiative, creativity, judgment, collaboration, and discretion in performance of these activities.
+### RA duties
+Research assistants (RAs) are employees of the Research Foundation (RF) and are paid to assist their advisor(s) with research related to a grant. DAES and ASRC use the following general job description for all RAs, but specific duties will vary based on the requirements of the grant and type of research conducted: 
 
-Continuation of RA funding from year to year is dependent on the satisfactory performance of grant-related research duties by the student and availability of funds. Advisors and students are strongly encouraged to discuss research expectations and funding each semester, and are required to do so at least once per year as per the Mentorship Guidelines (pages 20–23). If an advisor wishes to stop funding a student due to poor performance, they must meet with the Graduate Program Director, DAES or ASRC research administrator, and, potentially, an RF Human Resources representative to discuss the poor performance and design a 60-day, performance improvement plan. The details of the plan will depend on the specific goals of the grant, but need to include a clear explanation of how the student’s performance has been unsatisfactory, specific tasks the student needs to achieve over the 60-day period to maintain funding, a meeting schedule for the 60-day period, and an explanation of what will happen (i.e., removal of funding and tuition support) if the tasks are not fulfilled. The 60-day period must conclude before the fall or spring semester drop deadline for classes.
+> This position provides research support to the DAES/ASRC student working under the supervision of the Principal Investigator (PI). Students will carry out tasks in conformance with the requirements of the research project grant they are funded by and as directed by the PI. Activities will vary and may be carried out in the laboratory, workstation, library, or the field as described in the grant proposal description. Incumbents exercise initiative, creativity, judgment, collaboration, and discretion in performance of these activities.
+
+### RA performance
+Continuation of RA funding from year to year is dependent on the satisfactory performance of grant-related research duties by the student and availability of funds. Advisors and students are strongly encouraged to discuss research expectations and funding each semester, and are required to do so at least once per year as per the [Mentorship Guidelines](mentorship.md). 
+
+If an advisor wishes to stop funding a student due to poor performance, they must meet with the Graduate Program Director, DAES or ASRC research administrator, and, potentially, an RF Human Resources representative to discuss the poor performance and design a 60-day performance improvement plan. The details of the plan will depend on the specific goals of the grant, but need to include a clear explanation of how the student’s performance has been unsatisfactory, specific tasks the student needs to achieve over the 60-day period to maintain funding, a meeting schedule for the 60-day period, and an explanation of what will happen (i.e., removal of funding and tuition support) if the tasks are not fulfilled. The 60-day period must conclude before the fall or spring semester drop deadline for classes.
 
 ## Residency
-U.S. citizens and permanent residents are required promptly establish New York State residency upon arrival, <https://www.albany.edu/cost-aid/residency-requirements>, including getting a New York driver’s license, registering to vote, getting a bank account using their New York address, and placing a utility service (e.g., electricity, internet, etc.) in their name as soon as they arrive in Albany (i.e., before the start of the semester). Becoming a resident is important as, after the first year of study, any tuition scholarship will cover only the in-state New York resident rate. For a typical student, who started the program during the fall semester, the deadline for submitting paperwork is 1 October of the student’s second academic year, but students are strongly encouraged to submit their application and supporting documents in May or June. Students should retain copies of their official UAlbany and DAES/ASRC offer letters as supporting documents.
+U.S. citizens and permanent residents are required promptly establish New York State residency upon arrival, <https://www.albany.edu/cost-aid/residency-requirements>, including getting a New York driver’s license, registering to vote, getting a bank account using their New York address, and placing a utility service (e.g., electricity, internet, etc.) in their name as soon as they arrive in Albany (i.e., before the start of the semester). Becoming a resident is important as, after the first year of study, any tuition scholarship will cover only the in-state New York resident rate. 
+
+For a typical student, who started the program during the fall semester, the deadline for submitting paperwork is 1 October of the student’s second academic year, but students are strongly encouraged to submit their application and supporting documents in May or June. Students should retain copies of their official UAlbany and DAES/ASRC offer letters as supporting documents.
 
 
 ## Stipends and Effort
 
+### Stipend levels
 There are three stipend levels depending on progress toward degree. The first level is for students who enter the program without an M.S. degree; the second level is for students who enter the program with an M.S., and those who earn an M.S. at UAlbany or pass the written exam, whichever comes first; finally, the third level is for students who have passed the Ph.D. prospectus and advanced to candidacy. The stipend amounts for 2025–2026 are \$33,462, \$35,135, and \$36,808.
 
+### Expected effort
 During the academic year, student stipends, whether as a GA, TA, or RA, are paid at a rate of 20 hours per week, as mandated by Human Resources. This stipend is paid for work related to: 
 1. TA duties (if state funded as a TA); 
 2. Research conducted in support of the grant funding them (if an RA); or, 
@@ -45,10 +61,13 @@ If a student wishes to pursue employment outside the University, they should dis
 
 ## Thesis Defense/Prospectus Times and Format
 
+### Scheduling 
 During the Fall 2025 semester, thesis defenses and prospectuses will take place in person and via Zoom on Fridays after 11:30 AM. **Students must arrange their seminar time with the Graduate Program Director as early as possible on a first-come first-served basis.** Available dates may be found on the [department calendar](https://www.atmos.albany.edu/daesgsc/). If a student wishes to present during Climate Group Meeting (11:30 AM–12:30 PM), they must seek approval from the group’s faculty advisor, Prof. Aiguo Dai. The DAES Graduate Program Director may grant an exception based on need for an alternative day. Outside of the academic year, thesis defense and prospectus may be scheduled anytime during regular business hours.
 
+### Announcements
+Students should email the RGSO Webmaster, Kaiden Sookdar (ksookdar@albany.edu), to have their presentation added to the calendar once their date is approved by Graduate Program Director.
 
-Students must send their presentation abstract and a Zoom link to the Graduate Program Director at least one week before their scheduled presentation so that a timely announcement can be sent out. Students should also email the RGSO Webmaster, Kaiden Sookdar (ksookdar@albany.edu), to have their presentation added to the calendar once their date is approved by Graduate Program Director.
+Students must send their presentation abstract and a Zoom link to the Graduate Program Director _at least one week before_ their scheduled presentation so that a timely announcement can be sent out. 
 
 
 ## Thesis Due Dates
@@ -59,13 +78,12 @@ In order to graduate in a particular academic term, the written thesis must be t
 - Spring: 1 May
 - Summer: 1 August
 
-
 A maximum 10-day extension may be granted by The Graduate School via email petition by the thesis chair(s) to The Graduate School at etd@albany.edu. 
 
 
 ## Obtaining an M.S. Degree
 
-A student who is admitted into the Ph.D. program may obtain an M.S. degree “along the way” by completing the degree requirements outlined on pages 2–6, filling out the [Supplemental Program Application](https://www.albany.edu/graduate/graduate-programs/supplemental-degree-programs) form, and paying the $20 fee.
+A student who is admitted into the Ph.D. program may obtain an M.S. degree “along the way” by completing the degree requirements (either for [Atmospheric Science M.S.](atm-ms.md#program-requirements) or [Climate Science M.S.](clm-ms.md#program-requirements)), filling out the [Supplemental Program Application](https://www.albany.edu/graduate/graduate-programs/supplemental-degree-programs) form, and paying the $20 fee.
 
 
 ## Research Credit Descriptions
@@ -92,11 +110,19 @@ Students who are planning to travel internationally, for person or professional 
 
 ## Mentorship
 
-Seeking out and cultivating productive, supportive advising and mentoring relationships is vitally important to the academic and professional success of graduate students. These relationships also enrich the culture of collaboration and scholarly enterprise within DAES, ASRC, UAlbany, and the greater atmospheric science community. Good mentoring and advising relationships require active participation and engagement from both the student and advisor/mentor. To achieve the goals of productive and equitable advising and mentoring across DAES and ASRC, mentorship guidelines are included starting on page 20 to provide a starting point for important conversations and a framework for advising to help both students and advisors achieve success.
+Seeking out and cultivating productive, supportive advising and mentoring relationships is vitally important to the academic and professional success of graduate students. These relationships also enrich the culture of collaboration and scholarly enterprise within DAES, ASRC, UAlbany, and the greater atmospheric science community. Good mentoring and advising relationships require active participation and engagement from both the student and advisor/mentor. To achieve the goals of productive and equitable advising and mentoring across DAES and ASRC, [mentorship guidelines are included here](mentorship.md) to provide a starting point for important conversations and a framework for advising to help both students and advisors achieve success.
 
 ## Graduate Student Activity Reports
 
-All students are required to submit a yearly graduate student activity form at the end of the spring semester. The form (link sent by The Graduate Program Director each year) covers the concluding academic year and includes: 1) publications; 2) presentations (both oral and poster); 3) awards; 4) outreach, service, and engagement activities within/to the department/university, professional societies, the greater community, etc.; 5) a short description of progress toward degree; and, 6) a plan for progress towards degree and professional development during the next academic year. This last section should be written in consultation with the student’s advisor(s) after meeting to evaluate progress and establish goals for the upcoming year. Students who fail to submit these reports are subject to sanctions by the Program Committee.
+All students are required to submit a yearly graduate student activity form at the end of the Spring semester. The form (link sent by The Graduate Program Director each year) covers the concluding academic year and includes: 
+1. publications; 
+2. presentations (both oral and poster); 
+3. awards;
+4. outreach, service, and engagement activities within/to the department/university, professional societies, the greater community, etc.; 
+5. a short description of progress toward degree; and, 
+6. a plan for progress towards degree and professional development during the next academic year. 
+
+This last section should be written in consultation with the student’s advisor(s) after meeting to evaluate progress and establish goals for the upcoming year. Students who fail to submit these reports are subject to sanctions by the Program Committee.
 
 ## Office Space
 
