@@ -116,7 +116,7 @@ Seeking out and cultivating productive, supportive advising and mentoring relati
 
 (grad-activity-reports)=
 ## Graduate Student Activity Reports
-All students are required to submit a yearly graduate student activity form at the end of the Spring semester. The form (link sent by The Graduate Program Director each year) covers the concluding academic year and includes: 
+All students are required to submit a yearly graduate student activity form at the end of the Spring semester. The form (link sent by the Graduate Program Director each year) covers the concluding academic year and includes: 
 1. publications; 
 2. presentations (both oral and poster); 
 3. awards;
