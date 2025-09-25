@@ -70,6 +70,7 @@ Students should email the RGSO Webmaster, Kaiden Sookdar (ksookdar@albany.edu), 
 Students must send their presentation abstract and a Zoom link to the Graduate Program Director _at least one week before_ their scheduled presentation so that a timely announcement can be sent out. 
 
 
+(thesis-due-dates)=
 ## Thesis Due Dates
 
 In order to graduate in a particular academic term, the written thesis must be turned in to The Graduate School by the following dates:
@@ -81,6 +82,7 @@ In order to graduate in a particular academic term, the written thesis must be t
 A maximum 10-day extension may be granted by The Graduate School via email petition by the thesis chair(s) to The Graduate School at etd@albany.edu. 
 
 
+(obtaining-an-ms-degree)=
 ## Obtaining an M.S. Degree
 
 A student who is admitted into the Ph.D. program may obtain an M.S. degree “along the way” by completing the degree requirements (either for [Atmospheric Science M.S.](atm-ms.md#program-requirements) or [Climate Science M.S.](clm-ms.md#program-requirements)), filling out the [Supplemental Program Application](https://www.albany.edu/graduate/graduate-programs/supplemental-degree-programs) form, and paying the $20 fee.

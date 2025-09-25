@@ -2,7 +2,7 @@
 
 Students should proceed with their M.S. thesis research in close collaboration with their advisor(s) following the requirements and timeline contained in the UAlbany Graduate Bulletin. The M.S. second reader will be available to the student for consultation. 
 
-The M.S. thesis should demonstrate the candidate’s ability to successfully investigate a research problem, and their ability to arrive at results and conclusions that contribute to knowledge of the subject area. When the student and advisor(s) agree the M.S. thesis is in final form, a copy should be submitted to the second reader and a date for the M.S. thesis presentation scheduled (referred to as the “Major Field Examination” in the Graduate Bulletin). The M.S. thesis second reader must be given the completed thesis two weeks before the scheduled presentation or The Graduate School’s deadline for submission, whichever comes first (please see page 15). The student will present their thesis by giving a 30-min seminar to the department, followed by questions and comments from the audience.
+The M.S. thesis should demonstrate the candidate’s ability to successfully investigate a research problem, and their ability to arrive at results and conclusions that contribute to knowledge of the subject area. When the student and advisor(s) agree the M.S. thesis is in final form, a copy should be submitted to the second reader and a date for the M.S. thesis presentation scheduled (referred to as the “Major Field Examination” in the Graduate Bulletin). The M.S. thesis second reader must be given the completed thesis two weeks before the scheduled presentation or the [Graduate School’s deadline for submission](policies.md#thesis-due-dates), whichever comes first. The student will present their thesis by giving a 30-min seminar to the department, followed by questions and comments from the audience.
 
 (ms-timeline)=
 +++
@@ -21,7 +21,7 @@ The M.S. thesis should demonstrate the candidate’s ability to successfully inv
 ### Semester 4
 - Register for sufficient number of credits to have at least 30 graduate credits (including at least six credits of ATM 699). Must register for nine credits if supported as a graduate, teaching, or research assistant (GA, TA, or RA)
 - Complete research; write thesis; get thesis approved by thesis advisor(s) and second reader. The thesis should not exceed 150 pages in [The Graduate School format](https://www.albany.edu/graduate/resources-current-students/dissertation-thesis-information).
-- Apply for graduation. If in the PhD program and ending at the M.S. degree, you will need to apply for a Supplemental Degree for which there is a fee. The application form can be found at <https://www.albany.edu/graduate/graduate-programs/supplemental-degree-programs> (please also see page 15). You must also withdraw from the PhD program via an email to The Graduate School
+- Apply for graduation. Students registered in the Ph.D. program and ending at the M.S. degree will need to apply for a Supplemental Degree for which there is a fee, see [Obtaining an M.S. Degree](policies.md#obtaining-an-ms-degree). You must also withdraw from the Ph.D. program via an email to The Graduate School
 - Present a 30-min seminar on your research to the department. (The seminar appears on your transcript as the Master’s Field Exam)
 ### Summer 3 (if necessary)
 - Complete semester #4 requirements, as needed
