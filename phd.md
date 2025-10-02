@@ -68,7 +68,9 @@ During the last semester before advancing to candidacy, a student may enroll in 
 All pre-candidacy doctoral students, regardless of funding source, must register for at least three credits each fall and spring semester to satisfy the [university requirement of continuous registration](https://www.albany.edu/graduate-bulletin/requirements-governing-doctoral-degree.php) until they advance to candidacy, unless a leave of absence is requested and granted.
 
 #### Post-candidacy
-Doctoral students achieving candidacy need register for only one credit of ATM 899 each fall and spring semester to maintain continuous registration. If a student wishes to take a class after candidacy, they must still enroll in one credit of ATM 899. 
+Doctoral students achieving candidacy register for only one credit of ATM 899 each fall and spring semester until graduation. This satisfies the university requirement of continuous registration. 
+
+If a student wishes to take a class after candidacy, they must still enroll in one credit of ATM 899. 
 
 
 ### M.S. degree options for Ph.D. students
