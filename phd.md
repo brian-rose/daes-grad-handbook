@@ -61,12 +61,15 @@ A student is admitted to candidacy for the degree of Doctor of Philosophy upon t
 
 ### Credit counts
 #### Pre-candidacy
-Doctoral students must register for nine credits every semester if they are supported as a GA, TA, or RA, in order to maintain full-time student status. Students intending to achieve PhD candidacy (i.e., 60 credits) at the end of three years will need to take, with their research advisor’s consent, 12 credits per semester in their third year in order to have accumulated the 60 credits required for candidacy. _Note: This option may not be available to TAs and GAs due to state funding._ 
+Doctoral students supported as a GA, TA, or RA must register for nine credits every fall and spring semester in order to maintain full-time student status. Students intending to achieve PhD candidacy (i.e., 60 credits) at the end of three years will need to take, with their research advisor’s consent, 12 credits per semester in their third year in order to have accumulated the 60 credits required for candidacy. _Note: This option may not be available to TAs and GAs due to state funding._ 
 
-During the last semester before advancing to candidacy, a student may enroll in less than nine credits if they need less than nine to earn 60 credits (e.g., a student has 54 credits and only needs six to reach 60). If a student wishes to take less than nine credits, they must submit a [Reduced Credit Load form](https://www.albany.edu/graduate/resources-current-students) and send the confirmation email to The Graduate Program Director. 
+During the last semester before advancing to candidacy, a student may enroll in less than nine credits if they need less than nine to earn 60 credits (e.g., a student has 54 credits and only needs six to reach 60). If a funded student wishes to take less than nine credits, they must submit a [Reduced Credit Load form](https://www.albany.edu/graduate/resources-current-students) and send the confirmation email to The Graduate Program Director. 
+
+All pre-candidacy doctoral students, regardless of funding source, must register for at least three credits each fall and spring semester to satisfy the [university requirement of continuous registration](https://www.albany.edu/graduate-bulletin/requirements-governing-doctoral-degree.php) until they complete all requirements for advancement to candidacy, unless a leave of absence is requested and granted.
 
 #### Post-candidacy
-Doctoral students achieving candidacy need register for only one credit of ATM 899. If a student wishes to take a class after candidacy, they must still enroll in ATM 899. Unless a leave of absence is requested and granted, all other students must register for at least three credits to satisfy the requirement of continuous registration. 
+Doctoral students achieving candidacy need register for only one credit of ATM 899 each fall and spring semester to maintain continuous registration. If a student wishes to take a class after candidacy, they must still enroll in one credit of ATM 899. 
+
 
 ### M.S. degree options for Ph.D. students
 Students who consider the Master’s degree as an option for an intermediate or terminal degree, should initially follow the guidelines for the respective Master’s Program in order to satisfy the requirements for that degree. (Note: Doctoral students should not take ATM 699 unless they are certain they plan to obtain the M.S. degree since credits for ATM 699 are recorded as “Incomplete” until a Master’s thesis is submitted and approved.)
