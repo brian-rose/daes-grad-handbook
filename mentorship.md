@@ -104,7 +104,9 @@ Although it is sometimes difficult for faculty to provide concrete answers to th
 ## Student activity reports and professional development
 [Annual activity reports](policies.md#grad-activity-reports) are required for all students at the end of the Spring semester (via an online form). This reporting is meant to encourage discussion between student and advisor(s) about short- and longer-term professional goals.
 
-During a student’s first semester in the department, they should start discussing their professional and career goals with their advisor(s) and mentor(s). These goals may be unclear as the student starts their graduate school career and will, almost certainly, evolve as the student gains experience in the program and field. The goal of these early, and continuing, conversations between a student and their advisor(s) is for both sides to learn about, and from, each other to help them both achieve success. Questions to help facilitate these conversations may include:
+During a student’s first semester in the department, they should start discussing their professional and career goals with their advisor(s) and mentor(s). These goals may be unclear as the student starts their graduate school career and will, almost certainly, evolve as the student gains experience in the program and field. The goal of these early, and continuing, conversations between a student and their advisor(s) is for both sides to learn about, and from, each other to help them both achieve success. 
+
+**Questions to help facilitate these conversations may include:**
 
 ### Student to advisor(s):
 1) Describe the path that led you to become a professor.
