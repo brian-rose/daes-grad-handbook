@@ -42,6 +42,7 @@ In addition to the completion of course requirements, satisfactory performance i
 
 The student must submit a dissertation in their area of specialization, which represents a significant and original contribution in the field of atmospheric or environmental sciences.
 
+(full-time-study-in-residence)=
 ### Full Time Study in Residence
 
 Each student in a doctoral program must engage in full-time study beyond the Master’s degree, or equivalent at the University, for at least two semesters after admission to the advanced program. This requirement is designed to ensure a sustained period of intensive intellectual growth. For this purpose, a student will enroll in full-time study (nine credits) taken in each of two semesters, or in a regular semester and a summer session, not necessarily consecutive, which must be completed satisfactorily.
@@ -137,7 +138,8 @@ The examining committee creates questions that are designed to test the student�
 #### Written exam results
 Following the exam, the committee shall meet to determine the outcome of the exam. The student’s advisor(s) is(are) responsible for sending a memo with the outcome of the student’s exam, the names of the committee members, and scores to the Graduate Program Director. An electronic copy of exam questions and the student’s graded answers shall be emailed to the Graduate Program Director to be placed in the student’s file.
 
-(oral-exam)=
+
+(doctoral-oral-qualifying-exam)=
 +++
 ### Doctoral Oral Qualifying Exam
 #### Ph.D. thesis committee
@@ -161,7 +163,7 @@ A student who conditionally passes the oral qualifying exam may be asked to corr
 (candidacy)=
 +++
 ### Advancement to candidacy
-The department, upon the student’s completion of the [Residency](#full-time-study-in-residence) and [Research Skill (foreign language/computer programming)](#research-tool-requirement) requirements, and the [Written](#written-exam) and [Oral](#doctoral-oral-qualifying-exam) Ph.D. exams, nominates the student for Ph.D. candidacy. Candidacy should be attained at least one semester prior to the semester in which application for graduation is made. 
+The department, upon the student’s completion of the [Residency](#full-time-study-in-residence) and [Research Skill](#research-tool-requirement) requirements, and the [Written](#written-exam) and [Oral](#doctoral-oral-qualifying-exam) Ph.D. exams, nominates the student for Ph.D. candidacy. Candidacy should be attained at least one semester prior to the semester in which application for graduation is made. 
 
 ### Doctoral Research and Thesis Defense
 #### Scope and quality
@@ -173,6 +175,7 @@ The dissertation should demonstrate the candidate’s mastery of a research prob
 When the student and advisor(s) agree that the doctoral dissertation is in final form, copies should be submitted to the rest of the student’s committee and a date for the formal Ph.D. thesis defense scheduled (see [here](policies.md#thesis-defense-prospectus-times-and-format) for scheduling logistics). Committee members must be allowed at least two weeks to read the dissertation. The student will defend their dissertation by giving a 45-minute seminar to the full department followed by questions and comments from the committee. The thesis committee, including the student’s advisor(s), must formally vote to approve the dissertation. If two or more members of the committee do not approve, the dissertation must be revised and resubmitted for approval at a later date.
 
 
+(research-tool-requirement)=
 ### Research Tool Requirement
 
 A doctoral student can satisfy the requirement in any one of the following ways:

@@ -4,7 +4,7 @@ project:
   title: DAES Graduate Program Guide
   # description:
   keywords: []
-  authors: []
+  authors: "Department of Atmospheric and Environmental Sciences, University at Albany"
   # github:
   # bibliography: []
   toc:
@@ -19,6 +19,14 @@ project:
     - file: planned-courses.md
     - file: mentorship.md
     - file: gpc.md
+  exports:
+    - format: pdf
+      template: lapreprint
+      output: exports/graduate-booklet.pdf
+      id: graduate-booklet
+  downloads:
+    - id: graduate-booklet
+      title: DAES Graduate Handbook (pdf format)
 site:
   template: book-theme
   actions:
