@@ -1,13 +1,4 @@
-## M.S. Thesis and Presentation
-
-Students should proceed with their M.S. thesis research in close collaboration with their advisor(s) following the requirements and timeline contained in the UAlbany Graduate Bulletin. The M.S. second reader will be available to the student for consultation. 
-
-The M.S. thesis should demonstrate the candidate’s ability to successfully investigate a research problem, and their ability to arrive at results and conclusions that contribute to knowledge of the subject area. When the student and advisor(s) agree the M.S. thesis is in final form, a copy should be submitted to the second reader and a date for the M.S. thesis presentation scheduled (referred to as the “Major Field Examination” in the Graduate Bulletin). The M.S. thesis second reader must be given the completed thesis two weeks before the scheduled presentation or the [Graduate School’s deadline for submission](policies.md#thesis-due-dates), whichever comes first. The student will present their thesis by giving a 30-min seminar to the department, followed by questions and comments from the audience.
-
-(ms-timeline)=
-+++
 ## Timeline
-
 ### Semester 1
 - Register for nine credits, typically including two classes from the required core (track-depenendent) and either a third class or three credits of research (ATM 698) as advised. Students pursuing the Atmospheric Science program or the Climate Dynamics track of the Climate Science program should normally take ATM 500 and 504.  
 ### Semester 2
