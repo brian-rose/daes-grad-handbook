@@ -59,6 +59,7 @@ Students who have advanced to doctoral candidacy only register for one credit bu
 If a student wishes to pursue employment outside the University, they should discuss the matter with their advisor(s), to ensure secondary employment does not hinder degree progress.
 
 
+(thesis-defense-prospectus-times-and-format)=
 ## Thesis Defense/Prospectus Times and Format
 
 ### Scheduling 

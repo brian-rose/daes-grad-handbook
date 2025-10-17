@@ -191,7 +191,7 @@ A doctoral student can satisfy the requirement in any one of the following ways:
 ### Entering department without M.S.:
 
 Years 1–2
-:	Follow [M.S. timeline](atm-ms.md#ms-timeline)
+:	Follow [M.S. timeline](#ms-timeline)
 
 Year 3
 :  Form committee, take Ph.D. written exam

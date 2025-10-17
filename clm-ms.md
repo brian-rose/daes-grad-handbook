@@ -71,5 +71,13 @@ Students in both tracks are required to take a minimum of one course (3 credits)
 Course descriptions can be found in the [Graduate Bulletin](https://www.albany.edu/graduate-bulletin/atmospheric-science-courses.php).
 +++
 
-```{include} ms-thesis.md
+
+## M.S. Thesis and Presentation
+
+Students should proceed with their M.S. thesis research in close collaboration with their advisor(s) following the requirements and timeline contained in the UAlbany Graduate Bulletin. The M.S. second reader will be available to the student for consultation. 
+
+The M.S. thesis should demonstrate the candidate’s ability to successfully investigate a research problem, and their ability to arrive at results and conclusions that contribute to knowledge of the subject area. When the student and advisor(s) agree the M.S. thesis is in final form, a copy should be submitted to the second reader and a date for the M.S. thesis presentation scheduled (referred to as the “Major Field Examination” in the Graduate Bulletin). The M.S. thesis second reader must be given the completed thesis two weeks before the scheduled presentation or the [Graduate School’s deadline for submission](policies.md#thesis-due-dates), whichever comes first. The student will present their thesis by giving a 30-min seminar to the department, followed by questions and comments from the audience.
+
+
+```{include} ms-timeline.md
 ```
