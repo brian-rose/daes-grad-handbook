@@ -17,3 +17,5 @@ Department of Atmospheric and Environmental Sciences
 ```{image} UAlbanyMark_F_S01A_HEX_Gold_Black.png
 :width: 200 px
 ```
+
+Last update: 17 October 2025
