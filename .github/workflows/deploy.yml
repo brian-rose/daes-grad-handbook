@@ -41,7 +41,7 @@ jobs:
         uses: zauguin/install-texlive@v4
         with:
           packages: >
-            latexmk texlive-xetex
+            latexmk xetex
       - name: Build PDF Assets
         run: myst build --pdf
       - name: Build HTML Assets
