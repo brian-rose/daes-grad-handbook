@@ -45,7 +45,7 @@ jobs:
             opensans fontaxes xkeyval microtype graphics xcolor colortbl geometry changepage silence caption 
             fancyhdr lastpage enumitem alphalph intcalc booktabs newfloat wrapfig newfile hyperref pdfescape 
             hycolor letltxmacro url bitset bigintcalc stringenc rerunfilecheck uniquecounter lipsum mhchem 
-            chemgreek siunitx translator pdflscape textgreek gensymb ifsym orcidlink pgf listings 
+            chemgreek siunitx translator pdflscape textgreek gensymb ifsym orcidlink pgf listings authblk
             multirow snotez  pgfopts marginnote csquotes biblatex logreq newfloat gettitlestring microtype rerunfilecheck 
       - name: Build PDF Assets
         run: myst build --pdf
