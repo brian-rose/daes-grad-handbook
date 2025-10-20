@@ -40,7 +40,8 @@ jobs:
       - name: Install TeX Live
         uses: zauguin/install-texlive@v4
         with:
-          packages: scheme-basic
+          packages: >
+            scheme-basic latexmk
       - name: Build PDF Assets
         run: myst build --pdf
       - name: Build HTML Assets
