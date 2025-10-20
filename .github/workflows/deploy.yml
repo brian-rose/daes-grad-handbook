@@ -46,7 +46,8 @@ jobs:
             fancyhdr lastpage enumitem alphalph intcalc booktabs newfloat wrapfig newfile hyperref pdfescape 
             hycolor letltxmacro url bitset bigintcalc stringenc rerunfilecheck uniquecounter lipsum mhchem 
             chemgreek siunitx translator pdflscape textgreek gensymb ifsym orcidlink pgf listings preprint
-            multirow snotez  pgfopts marginnote csquotes biblatex logreq newfloat gettitlestring microtype rerunfilecheck 
+            multirow snotez  pgfopts marginnote csquotes biblatex logreq newfloat gettitlestring microtype 
+            rerunfilecheck titlesec
       - name: Build PDF Assets
         run: myst build --pdf
       - name: Build HTML Assets
