@@ -41,7 +41,7 @@ jobs:
         uses: zauguin/install-texlive@v4
         with:
           packages: >
-            scheme-basic latexmk xetex regexpatch marginfix extsizes mdframed zref needspace lineno unicode-math
+            scheme-basic latexmk xetex regexpatch marginfix extsizes mdframed zref needspace lineno unicode-math opensans
       - name: Build PDF Assets
         run: myst build --pdf
       - name: Build HTML Assets
