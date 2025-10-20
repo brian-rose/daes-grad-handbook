@@ -42,13 +42,11 @@ jobs:
         with:
           packages: >
             scheme-basic latexmk xetex regexpatch marginfix extsizes mdframed zref needspace lineno unicode-math 
-            opensans fontaxes xkeyval microtype graphics xcolor colortbl array authblk geometry changepage ifvtex
-            silence caption fancyhdr lastpage enumitem alphalph intcalc booktabs newfloat wrapfig newfile 
-            verbatim hyperref pdfescape hycolor letltxmacro url bitset bigintcalc stringenc rerunfilecheck 
-            uniquecounter lipsum mhchem chemgreek siunitx translator pdflscape lscape ifthen textgreek 
-            gensymb ifsym orcidlink pgfrcs pgf pgfsys pgfcomp  tikz listings tabularx longtable subcaption
-            multirow snotez  pgfopts marginnote perpage csquotes biblatex logreq ltcaption newfloat nameref
-            gettitlestring microtype rerunfilecheck 
+            opensans fontaxes xkeyval microtype graphics xcolor colortbl geometry changepage silence caption 
+            fancyhdr lastpage enumitem alphalph intcalc booktabs newfloat wrapfig newfile hyperref pdfescape 
+            hycolor letltxmacro url bitset bigintcalc stringenc rerunfilecheck uniquecounter lipsum mhchem 
+            chemgreek siunitx translator pdflscape textgreek gensymb ifsym orcidlink pgf listings 
+            multirow snotez  pgfopts marginnote csquotes biblatex logreq newfloat gettitlestring microtype rerunfilecheck 
       - name: Build PDF Assets
         run: myst build --pdf
       - name: Build HTML Assets
