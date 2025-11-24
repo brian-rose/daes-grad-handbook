@@ -14,3 +14,4 @@
 - Elena Fernandez (Post-written exam)
 - Liam Sheji (ASRC)					
 - Cassidy Ochoa (First year)
+- Kaz Nyzio (Applied MS)
