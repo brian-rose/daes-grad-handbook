@@ -144,4 +144,5 @@ In addition to departmental resources, TAs may contact the Graduate Student Empl
 - [Vanderbilt University Center for Teaching Guide to Mentorship for Faculty](https://cft.vanderbilt.edu/guides-sub-pages/mentoring-graduate-students/)
 - [University of Michigan mentoring template](https://www.rackham.umich.edu/downloads/more-mentoring-plan-example-1.pdf)
 - [AAAS STEM field IDP tool](http://myidp.sciencecareers.org/)
-- An article that some research groups in DAES have found to be very useful: Zerzan, J. T., Hess, R., Schur, E., Phillips, R. S., & Rigotti, N. (2009). Making the most of mentors: a guide for mentees. Academic Medicine, 84(1), 140-144.
+- Some research groups in DAES have found this article to be very useful, though it comes from a different academic discipline: 
+> Zerzan, J. T., Hess, R., Schur, E., Phillips, R. S., & Rigotti, N. (2009). Making the most of mentors: a guide for mentees. Academic Medicine, 84(1), 140-144.
