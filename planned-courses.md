@@ -17,7 +17,8 @@ _These are subject to change._
 - ATM 500: Atmospheric Dynamics I
 - ATM 504: Introduction to Atmospheric Physics I
 - ATM 529: Atmosphere–Ocean Interaction _(potentially to be retitled "Air-Sea Interaction")_
-- ATM 551: Fundamentals of Earth’s Climate
+- ATM 552: Climate Change
+- ATM 561: Applied Data Analysis in Atmospheric and Environmental Science
 - ATM 563: Applications of Numerical Weather Prediction
 - ATM 622: General Circulation of the Atmosphere
-- ATM 641: Mesoscale Meteorology
+- Air Quality (new course)
