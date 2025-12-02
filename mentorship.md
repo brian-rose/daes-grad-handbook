@@ -14,15 +14,17 @@ As faculty at an R1 research and teaching university, DAES and ASRC research adv
 ### Student responsibilties
 Graduate students being mentored by DAES and/or ASRC faculty members are responsible for: 
 1. developing and demonstrating their ability to be independent scholars and researchers; 
-2. analyzing what they need from their advisor(s) and explicitly asking for assistance; 
+2. being self-aware, analyzing what they need from their advisor(s) and explicitly asking for assistance; 
 3. developing a work plan that includes both short-term and long-term objectives, as well as a series of deadlines;
 4. taking advantage of formal and informal opportunities to improve their understanding of research responsibility and professional ethics; and, 
-5. being realistic about what any single mentor can do for them.
+5. being realistic about what any single mentor can do for them, and seeking out additional mentorship beyond their direct advisor(s) as appropriate.
 
 To assist advisors and students in achieving these goals, the following guidelines and best practices have been developed to assist advisors and students in setting clear expectations, having open lines of communication, formulating academic and professional goals, and fostering healthy working relationships. A list of resources available to assist in achieving the goals above is also appended.
 
 ## Clear expectations and communication
-Developing clearly defined expectations and lines of communication are hallmarks of good relationships, and can alleviate problems from developing between advisors and advisees. New graduate students should promptly meet with their advisor(s) upon their arrival to develop an agreed upon set of expectations in the following areas, and reassess these expectations at least annually as the student advances through the program: 
+Developing clearly defined expectations and lines of communication are hallmarks of good relationships, and can alleviate problems from developing between advisors and advisees. New graduate students should meet promptly with their advisor(s) upon their arrival to develop an agreed upon set of expectations in the following areas, and reassess these expectations at least annually as the student advances through the program. 
+
+Before meeting with their advisor, it's helpful if students can have some clarity on their work style and how they've been most successful in the past. Do they need structured, directive guidance or gentle supervision? Additionally, are they aware of any of their own knowledge or skill gaps?
 
 ### Time spent on research
 - How much time per week does the advisor expect the student to work on research? 
@@ -104,7 +106,9 @@ Although it is sometimes difficult for faculty to provide concrete answers to th
 ## Student activity reports and professional development
 [Annual activity reports](policies.md#grad-activity-reports) are required for all students at the end of the Spring semester (via an online form). This reporting is meant to encourage discussion between student and advisor(s) about short- and longer-term professional goals.
 
-During a student’s first semester in the department, they should start discussing their professional and career goals with their advisor(s) and mentor(s). These goals may be unclear as the student starts their graduate school career and will, almost certainly, evolve as the student gains experience in the program and field. The goal of these early, and continuing, conversations between a student and their advisor(s) is for both sides to learn about, and from, each other to help them both achieve success. 
+During a student’s first semester in the department, they should start discussing their professional and career goals with their advisor(s) and mentor(s). As part of these conversations, include both shorter and longer-term goals, such as 1 year, 3 years, and beyond. These goals may be unclear as the student starts their graduate school career and will, almost certainly, evolve as the student gains experience in the program and field. The goal of these early, and continuing, conversations between a student and their advisor(s) is for both sides to learn about, and from, each other to help them both achieve success. 
+
+Both student and advisor should expect that mentorship will evolve over time. The annual activity report is a good opportunity to assess any changes in both the goals and the mentorship needs of the student as they progress through graduate school.
 
 **Questions to help facilitate these conversations may include:**
 
@@ -135,12 +139,10 @@ If a conflict arises between a student and their advisor, which either party fee
 In addition to departmental resources, TAs may contact the Graduate Student Employees Union to discuss any issues with their advisor(s) or the faculty member for which they are assisting in teaching.
 
 ## Online resources
-University of California Santa Cruz Mentoring Packet: https://www.math.ucsc.edu/graduate/grad-forms/graduate-student-mentoring-packet.pdf
-
-University of Michigan Rackham Graduate School Guide: https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf
-
-Vanderbilt University Center for Teaching Guide to Mentorship for Faculty: https://cft.vanderbilt.edu/guides-sub-pages/mentoring-graduate-students/
-
-University of Michigan mentoring template: https://www.rackham.umich.edu/downloads/more-mentoring-plan-example-1.pdf
-
-AAAS STEM field IDP tool: http://myidp.sciencecareers.org/
+- [University of California Santa Cruz Mentoring Packet](https://www.math.ucsc.edu/graduate/grad-forms/graduate-student-mentoring-packet.pdf)
+- [University of Michigan Rackham Graduate School Guide](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf)
+- [Vanderbilt University Center for Teaching Guide to Mentorship for Faculty](https://cft.vanderbilt.edu/guides-sub-pages/mentoring-graduate-students/)
+- [University of Michigan mentoring template](https://www.rackham.umich.edu/downloads/more-mentoring-plan-example-1.pdf)
+- [AAAS STEM field IDP tool](http://myidp.sciencecareers.org/)
+- Some research groups in DAES have found this article to be very useful, though it comes from a different academic discipline: 
+> Zerzan, J. T., Hess, R., Schur, E., Phillips, R. S., & Rigotti, N. (2009). Making the most of mentors: a guide for mentees. Academic Medicine, 84(1), 140-144.
