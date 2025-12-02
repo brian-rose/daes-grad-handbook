@@ -18,4 +18,4 @@ Department of Atmospheric and Environmental Sciences
 :width: 200 px
 ```
 
-Last update: 20 October 2025
+Last update: 2 December 2025
