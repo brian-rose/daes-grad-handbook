@@ -44,7 +44,7 @@ For a typical student, who started the program during the fall semester, the dea
 ## Stipends and Effort
 
 ### Stipend levels
-There are three stipend levels depending on progress toward degree. The first level is for students who enter the program without an M.S. degree; the second level is for students who enter the program with an M.S., and those who earn an M.S. at UAlbany or pass the written exam, whichever comes first; finally, the third level is for students who have passed the Ph.D. prospectus and advanced to candidacy. The stipend amounts for 2025–2026 are \$33,462, \$35,135, and \$36,808.
+There are three stipend levels depending on progress toward degree. The first level is for students who enter the program without an M.S. degree; the second level is for students who enter the program with an M.S., and those who earn an M.S. at UAlbany or pass the written exam, whichever comes first; finally, the third level is for students who have passed the Ph.D. prospectus and advanced to candidacy. The stipend amounts for 2026–2027 will be \$35,000, \$36,500, and \$38,000.
 
 ### Expected effort
 During the academic year, student stipends, whether as a GA, TA, or RA, are paid at a rate of 20 hours per week, as mandated by Human Resources. This stipend is paid for work related to: 
@@ -88,6 +88,12 @@ A maximum 10-day extension may be granted by The Graduate School via email petit
 
 A student who is admitted into the Ph.D. program may obtain an M.S. degree “along the way” by completing the degree requirements (either for [Atmospheric Science M.S.](atm-ms.md#program-requirements) or [Climate Science M.S.](clm-ms.md#program-requirements)), filling out the [Supplemental Program Application](https://www.albany.edu/graduate/graduate-programs/supplemental-degree-programs) form, and paying the $20 fee.
 
+
+## Course grade requirements
+
+As detailed in the [Graduate Bulletin](https://www.albany.edu/graduate-bulletin/regulations-and-degree-requirements.php) (See "Academic Standards"), students must maintain a minimum B average (3.0 GPA) in graded graduate coursework to remain in good academic standing at the university. Grades of B-, C+, and C can be applied to degree requirements only if they are balanced to an overall B average. Grades of C- or below cannot be used to satisfy degree requirements.
+
+Students who earn grades below B on a required course may be asked to repeat the course, at the discretion of the Graduate Program Committee. Grades below C are not counted toward a student's cumulative GPA for graduation purposes since they do not satisfy degree requirements. The higher grade from the repeated attempt will be used instead.
 
 ## Research Credit Descriptions
 
