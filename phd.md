@@ -143,7 +143,7 @@ Following the exam, the committee shall meet to determine the outcome of the exa
 +++
 ### Doctoral Oral Qualifying Exam
 #### Ph.D. thesis committee
-Upon successful completion of the Written Examination, the student, with the advice of their thesis advisor(s), has the responsibility to organize a Ph.D. thesis committee. The student must submit the composition of the committee to the Graduate Program Director. The committee must consist of _at least four faculty members_, one of which must have their primary affiliation in the Department of Atmospheric and Environmental Sciences. The student’s thesis advisor will serve as chair (co-advisors serve as co-chairs) of the committee. Only those with an earned doctorate are eligible to participate formally in dissertation advisement and the approval of a dissertation. 
+Upon successful completion of the Written Examination, the student, with the advice of their thesis advisor(s), has the responsibility to organize a Ph.D. thesis committee. The student must submit the composition of the committee to the Graduate Program Director. The committee must consist of _at least four faculty members_, one of which must have their primary affiliation in the Department of Atmospheric and Environmental Sciences. The student’s thesis advisor will serve as chair of the committee (co-advisors serve as co-chairs). Only those with an earned doctorate are eligible to participate formally in dissertation advisement and the approval of a dissertation. 
 
 The thesis committee will have the responsibility for guiding the student in all aspects of their dissertation research. The student is strongly encouraged, and expected, to confer with all committee members, individually or as a group, on a regular basis. At the discretion of the committee, the student may be required periodically to provide a written and/or oral progress report. 
 
@@ -153,17 +153,34 @@ The student must submit a formal written thesis prospectus to their Ph.D. thesis
 2. a critical review of the background scientific literature; and, 
 3. a carefully described proposed research plan including the method of attack to solve the problem. 
 
-The prospectus is not intended to be a preliminary dissertation of the student’s research. Description of the student’s research should be included only in so far as it provides background for the proposed research plan. The prospectus should not need to exceed 25 pages of text (figures and references are not included in the limit). A student is expected to consult closely with their advisor while developing the prospectus.
+The prospectus is not intended to be a preliminary dissertation of the student’s already-completed research. Description of the student’s research should be included only insofar as it provides background for the proposed research plan.  A student is expected to consult closely with their advisor while developing the prospectus. 
 
+The written prospectus should be concise and readable, similar to a proposal to a grant funding agency. To this end, the following length limits will be enforced:
+
+:::{important} Prospectus length limits
+The written prospectus is **not to exceed 30 publication units (PU)**, which includes text, figures, and tables. 
+
+The formula for publication units is PU = number of words/500 + number of figures + number of tables. Word count includes abstract, text, in-text citations, figure captions, and appendices. It does **not** include references. This is the same PU definition used by [AGU journals](https://www.agu.org/publications/authors/journals.)
+:::
+
+It is the student's responsibility to ensure that their prospectus document adheres to this length limit. Thesis committee members may refuse to read and evaluate an overly long prospectus until it is edited down to these limits.
+
+(oral-exam)=
 #### Oral exam
-See [here](policies.md#thesis-defense-prospectus-times-and-format) for logistics on scheduling the oral examination. The Ph.D. thesis committee must have at least one week to read the formal prospectus before the scheduled oral examination. The oral examination consists of an open departmental seminar with questions allowed from the audience followed by a closed session with the committee for additional questioning. The public presentation should not exceed 45 minutes. During the student’s presentation, questions from the audience should be limited to clarifications only. Following the end of the presentation, the members of the audience who are not on the Ph.D. committee are free to ask questions related to the presentation. Once all of the general audience questions are answered, the audience will be excused and the student will answer questions from the Ph.D. thesis committee related to the topic and prospectus.
+Oral discourse is a necessary component of the scientific process. To advance to doctoral candidacy, the student must give a formal presentation of their prospectus and satisfactorily address oral questions from their committee members. 
 
-A student who conditionally passes the oral qualifying exam may be asked to correct demonstrated deficiencies through additional course work and/or by submitting a revised prospectus for approval by their thesis committee. A student who does not pass the oral examination after two tries may be allowed a third attempt in unusual circumstances and then only after approval by the Graduate Program Committee upon formal petition by the student. 
+See [here](policies.md#thesis-defense-prospectus-times-and-format) for logistics on scheduling the oral examination. The Ph.D. thesis committee must have at least one week to read the formal prospectus before the scheduled oral examination. The oral examination consists of an open departmental seminar with questions allowed from the audience followed by a closed session with the committee for additional questioning. The public presentation should not exceed 45 minutes. During the student’s presentation, questions from the audience should be limited to clarifications only. Following the end of the presentation, the members of the audience who are not on the Ph.D. committee are free to ask questions related to the presentation. 
+
+Following the general audience questions, the audience will be excused and the student will answer questions from the Ph.D. thesis committee in a closed-door session. The committee may ask any anything relating to the proposed research plan and the broader scientific topic. Once the committee is done asking questions, the student will be excused and the committee will deliberate to reach a decision, typically one of "pass", "do not pass", or "conditional pass".
+
+A conditional pass typically means that the committee asks the student to correct specific demonstrated deficiences through additional course work and/or by submitting a revised prospectus for committee approval. The scope of any required revisions is determined by the committee. 
+
+A student who does not pass the oral examination after two tries may be allowed a third attempt in unusual circumstances and then only after approval by the Graduate Program Committee upon formal petition by the student. 
 
 (candidacy)=
 +++
 ### Advancement to candidacy
-The department, upon the student’s completion of the [Residency](#full-time-study-in-residence) and [Research Skill](#research-tool-requirement) requirements, and the [Written](#written-exam) and [Oral](#doctoral-oral-qualifying-exam) Ph.D. exams, nominates the student for Ph.D. candidacy. Candidacy should be attained at least one semester prior to the semester in which application for graduation is made. 
+The department, upon the student’s completion of the [Residency](#full-time-study-in-residence) and [Research Skill](#research-tool-requirement) requirements, the [Written](#written-exam) and [Oral](#doctoral-oral-qualifying-exam) Ph.D. exams, and 60 total graduate credits, nominates the student for Ph.D. candidacy. Candidacy should be attained at least one semester prior to the semester in which application for graduation is made. 
 
 ### Doctoral Research and Thesis Defense
 #### Scope and quality
@@ -172,7 +189,7 @@ Students should proceed with their doctoral dissertation research in close colla
 The dissertation should demonstrate the candidate’s mastery of a research problem, and their ability to arrive at results and conclusions that contribute significantly to knowledge of the subject area. In general, it is expected that the dissertation will be of the quality comparable to that found in articles in high-quality, well-regarded, refereed scientific journals. 
 
 #### Defense
-When the student and advisor(s) agree that the doctoral dissertation is in final form, copies should be submitted to the rest of the student’s committee and a date for the formal Ph.D. thesis defense scheduled (see [here](policies.md#thesis-defense-prospectus-times-and-format) for scheduling logistics). Committee members must be allowed at least two weeks to read the dissertation. The student will defend their dissertation by giving a 45-minute seminar to the full department followed by questions and comments from the committee. The thesis committee, including the student’s advisor(s), must formally vote to approve the dissertation. If two or more members of the committee do not approve, the dissertation must be revised and resubmitted for approval at a later date.
+When the student and advisor(s) agree that the doctoral dissertation is in final form, copies should be submitted to the rest of the student’s committee and a date for the formal Ph.D. thesis defense scheduled (see [here](policies.md#thesis-defense-prospectus-times-and-format) for scheduling logistics). Committee members must be allowed at least two weeks to read the dissertation. The student will defend their dissertation by giving a 45-minute seminar to the full department followed by questions and comments from the committee, in a format similar to the [oral exam](oral-exam). The thesis committee (including its chair, i.e., the student's advisor), must formally vote to approve the dissertation. If two or more members of the committee do not approve, the dissertation must be revised and resubmitted for approval at a later date.
 
 
 (research-tool-requirement)=

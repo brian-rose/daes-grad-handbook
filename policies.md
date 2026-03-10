@@ -44,7 +44,18 @@ For a typical student, who started the program during the fall semester, the dea
 ## Stipends and Effort
 
 ### Stipend levels
-There are three stipend levels depending on progress toward degree. The first level is for students who enter the program without an M.S. degree; the second level is for students who enter the program with an M.S., and those who earn an M.S. at UAlbany or pass the written exam, whichever comes first; finally, the third level is for students who have passed the Ph.D. prospectus and advanced to candidacy. The stipend amounts for 2026–2027 will be \$35,000, \$36,500, and \$38,000.
+There are three stipend levels depending on progress in the degree program:
+
+Level 1
+: Students who enter the program without an M.S. degree
+
+Level 2
+: Students who enter the program with a thesis-based M.S., and those who earn a thesis-based M.S. at UAlbany or pass the [written PhD exam](written-exam) (whichever comes first)
+
+Level 3
+: Students who have passed the Ph.D. prospectus (whether or not they have enough credits to advance to candidacy). Students who receive a conditional pass from their committee will typically not advance to the top stipend level until all conditions have been met.
+
+The stipend amounts for 2026–2027 will be \$35,000, \$36,500, and \$38,000.
 
 ### Expected effort
 During the academic year, student stipends, whether as a GA, TA, or RA, are paid at a rate of 20 hours per week, as mandated by Human Resources. This stipend is paid for work related to: 
@@ -66,10 +77,19 @@ If a student wishes to pursue employment outside the University, they should dis
 During the Fall 2025 semester, thesis defenses and prospectuses will take place in person and via Zoom on Fridays after 11:30 AM. **Students must arrange their seminar time with the Graduate Program Director as early as possible on a first-come first-served basis.** Available dates may be found on the [department calendar](https://www.atmos.albany.edu/daesgsc/). If a student wishes to present during Climate Group Meeting (11:30 AM–12:30 PM), they must seek approval from the group’s faculty advisor, Prof. Aiguo Dai. The DAES Graduate Program Director may grant an exception based on need for an alternative day. Outside of the academic year, thesis defense and prospectus may be scheduled anytime during regular business hours.
 
 ### Announcements
-Students should email the RGSO Webmaster, Kaiden Sookdar (ksookdar@albany.edu), to have their presentation added to the calendar once their date is approved by Graduate Program Director.
+Students should email the RGSO Webmaster, [Kaiden Sookdar](mailto:ksookdar@albany.edu), to have their presentation added to the calendar once their date is approved by Graduate Program Director.
 
-Students must send their presentation abstract and a Zoom link to the Graduate Program Director _at least one week before_ their scheduled presentation so that a timely announcement can be sent out. 
+Students must send their presentation title, abstract and Zoom link to the Graduate Program Director _at least one week before_ their scheduled presentation so that a timely announcement can be sent out. 
 
+### Presentation readiness
+
+**It is the student's responsibility** to make sure that their presentation is ready to go at the scheduled time, including any necessary AV support and Zoom screen sharing. **Plan ahead!**
+
+:::{important} Technical dry runs for presentations
+Students are **strongly encouraged** to do a technical dry-run of their presentation in the designated room prior to scheduled day and time.
+
+For AV help, contact Kevin Tyle ahead of time.
+:::
 
 (thesis-due-dates)=
 ## Thesis Due Dates
