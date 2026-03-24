@@ -102,7 +102,7 @@ The degree must be completed within eleven calendar years from the date of initi
 The purpose of the Doctoral Written Exam is to evaluate a student’s critical analysis skills and their ability to apply the scientific method to answer important questions in the field. The written examination focuses on the student’s broad area of specialty, such as physical meteorology, synoptic–dynamic meteorology, tropical meteorology, atmospheric chemistry, climate dynamics, paleoclimatology, or environmental sciences. Each examination is constructed so as to accommodate the background and focus of individual students. Relevant questions can involve analyzing figures, equations, or results; designing an experiment to answer a scientific question; and/or critical evaluation of papers in the scientific literature.
 
 #### Timing
-Students who enter with a Master’s degree must take the written exam by the end of the third semester of enrollment, while students who enter without a Master’s degree must take the exam by the end of the spring semester of their third year. Students are allowed two attempts to pass the written qualifying examination. A third attempt may be allowed in unusual circumstances and then only after approval by the Graduate Program Committee upon formal petition by the student, with support of the student’s advisor(s).
+Students who enter with a thesis-based Master’s degree must take the written exam by the end of the third semester of enrollment, while students who enter without a thesis-based Master’s degree must take the exam by the end of the spring semester of their third year. Students are allowed two attempts to pass the written qualifying examination. A third attempt may be allowed in unusual circumstances and then only after approval by the Graduate Program Committee upon formal petition by the student, with support of the student’s advisor(s).
 
 The student should email the Graduate Program Director at the beginning of the semester stating their intention to take the exam and the names of their committee members. This step will assist in coordinating the exam date with other students, particularly if multiple students have the same examining committee members.
 
@@ -161,19 +161,24 @@ The written prospectus should be concise and readable, similar to a proposal to 
 The written prospectus is **not to exceed 30 publication units (PU)**, which includes text, figures, and tables. 
 
 The formula for publication units is PU = number of words/500 + number of figures + number of tables. Word count includes abstract, text, in-text citations, figure captions, and appendices. It does **not** include references. This is the same PU definition used by [AGU journals](https://www.agu.org/publications/authors/journals.)
+
+As a rough example, 30 PU corresponds approximately to 15 pages of single-spaced text, 12 figures and 3 tables. Bear in mind that 30 PU is an **an upper bound**, not a target.
 :::
 
-It is the student's responsibility to ensure that their prospectus document adheres to this length limit. Thesis committee members may refuse to read and evaluate an overly long prospectus until it is edited down to these limits.
+**It is the student's responsibility** to ensure that their prospectus document adheres to this length limit. Thesis committee members may refuse to read and evaluate an overly long prospectus until it is edited down to these limits.
 
 (oral-exam)=
 #### Oral exam
 Oral discourse is a necessary component of the scientific process. To advance to doctoral candidacy, the student must give a formal presentation of their prospectus and satisfactorily address oral questions from their committee members. 
 
-See [here](policies.md#thesis-defense-prospectus-times-and-format) for logistics on scheduling the oral examination. The Ph.D. thesis committee must have at least one week to read the formal prospectus before the scheduled oral examination. The oral examination consists of an open departmental seminar with questions allowed from the audience followed by a closed session with the committee for additional questioning. The public presentation should not exceed 45 minutes. During the student’s presentation, questions from the audience should be limited to clarifications only. Following the end of the presentation, the members of the audience who are not on the Ph.D. committee are free to ask questions related to the presentation. 
+See [here](policies.md#thesis-defense-prospectus-times-and-format) for logistics on scheduling the oral examination. The Ph.D. thesis committee must have at least one week to read the formal prospectus before the scheduled oral examination. The oral examination consists of an open departmental seminar with questions allowed from the audience followed by a closed session with the committee for additional questioning. The public presentation should not exceed 45 minutes. During the student’s presentation, questions from the audience should be limited to clarifications only. Following the end of the presentation, audience members are free to ask questions related to the presentation. 
 
-Following the general audience questions, the audience will be excused and the student will answer questions from the Ph.D. thesis committee in a closed-door session. The committee may ask any anything relating to the proposed research plan and the broader scientific topic. Once the committee is done asking questions, the student will be excused and the committee will deliberate to reach a decision, typically one of "pass", "do not pass", or "conditional pass".
+Following the general audience questions, the audience will be excused and the student will answer questions from the Ph.D. thesis committee in a closed-door session. The committee may ask any anything relating to the proposed research plan and the broader scientific topic. Once the committee is done asking questions, the student will be excused and the committee will deliberate to reach a decision. The three possible outcomes are
+- Pass
+- Conditional pass
+- Do not pass
 
-A conditional pass typically means that the committee asks the student to correct specific demonstrated deficiences through additional course work and/or by submitting a revised prospectus for committee approval. The scope of any required revisions is determined by the committee. 
+A conditional pass means that the committee asks the student to correct specific demonstrated deficiences, which may include additional course work and/or submitting a revised prospectus for committee approval. The scope of these conditions is determined by the committee. 
 
 A student who does not pass the oral examination after two tries may be allowed a third attempt in unusual circumstances and then only after approval by the Graduate Program Committee upon formal petition by the student. 
 

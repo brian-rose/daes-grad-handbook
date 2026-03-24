@@ -53,7 +53,7 @@ Level 2
 : Students who enter the program with a thesis-based M.S., and those who earn a thesis-based M.S. at UAlbany or pass the [written PhD exam](written-exam) (whichever comes first)
 
 Level 3
-: Students who have passed the Ph.D. prospectus (whether or not they have enough credits to advance to candidacy). Students who receive a conditional pass from their committee will typically not advance to the top stipend level until all conditions have been met.
+: Students who have passed the Ph.D. prospectus (whether or not they have enough credits to advance to candidacy). Students who receive a conditional pass from their committee will not advance to the top stipend level until all conditions have been met.
 
 The stipend amounts for 2026–2027 will be \$35,000, \$36,500, and \$38,000.
 
