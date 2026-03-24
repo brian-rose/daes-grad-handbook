@@ -162,7 +162,7 @@ The written prospectus is **not to exceed 30 publication units (PU)**, which inc
 
 The formula for publication units is PU = number of words/500 + number of figures + number of tables. Word count includes abstract, text, in-text citations, figure captions, and appendices. It does **not** include references. This is the same PU definition used by [AGU journals](https://www.agu.org/publications/authors/journals.)
 
-As a rough example, 30 PU corresponds approximately to 15 pages of single-spaced text, 12 figures and 3 tables. Bear in mind that 30 PU is an **an upper bound**, not a target.
+As an example, 30 PU corresponds roughly to 15 pages of single-spaced text, 12 figures and 3 tables. Bear in mind that 30 PU is an **upper bound**, not a target.
 :::
 
 **It is the student's responsibility** to ensure that their prospectus document adheres to this length limit. Thesis committee members may refuse to read and evaluate an overly long prospectus until it is edited down to these limits.
