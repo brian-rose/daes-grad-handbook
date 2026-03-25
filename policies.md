@@ -81,6 +81,8 @@ Students should email the RGSO Webmaster, [Kaiden Sookdar](mailto:ksookdar@alban
 
 Students must send their presentation title, abstract and Zoom link to the Graduate Program Director _at least one week before_ their scheduled presentation so that a timely announcement can be sent out. 
 
+The presentation abstract will be shared with a broad audience. Students should submit a concise, accessible abstract that describes the topics to be covered in the presentation itself. Copy-and-paste of the full thesis abstract is generally not appropriate. 
+
 ### Presentation readiness
 
 **It is the student's responsibility** to make sure that their presentation is ready to go at the scheduled time, including any necessary AV support and Zoom screen sharing. **Plan ahead!**
